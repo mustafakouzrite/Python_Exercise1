@@ -7,3 +7,4 @@ def fact(n):
 
 def comb(n, k):
     return fact(n) // (fact(k) * fact(n - k))
+With fact Iterative function 
